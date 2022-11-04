@@ -10,5 +10,5 @@ Linux için: <br/> <br/>
 `code .` <br/> <br/> 
 ## Contributing <br/>
 Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız. <br/> <br/>
-## License <br/>
+## License <br/> <br/>
 [MIT](https://choosealicense.com/licenses/mit/) 
