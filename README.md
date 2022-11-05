@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo 
-![README](https://github.com/bekirbebek/kodluyoruzilkrepo/issues/2#issue-1436739678)
+![README](https://github.com/bekirbebek/FIRS-IMAGE/blob/main/CODE.jpeg) <br/> <br/>
 Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir ader README dosyası, bir adet index.html barındırıyor. <br/> <br/> 
 ## Installation
 Öncelikle projeyi clonelayın. (https://github.com/bekirbebek/kodluyoruzilkrepo.git) <br/> <br/>
